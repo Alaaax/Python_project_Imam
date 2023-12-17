@@ -1,0 +1,1 @@
+The idea of   this project is: a game base that contains 3 levels of games: easy, medium, and difficult.  The player can choose the level of the game he wants. If the player wins, he can move to the medium level. Also, if he wins this level, he can move to the difficult level.  But when the player loses in one of the levels, he cannot continue the journey, so the game will stop
